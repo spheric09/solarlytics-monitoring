@@ -18,5 +18,8 @@ Live App Link: [streamlit cloud URL]
 
 ## How to Run Locally
 1. Clone this repository:
-   ```bash
    git clone [https://github.com/spheric09/solarlytics-monitoring.git](https://github.com/spheric09/solarlytics-monitoring.git)
+2. Install Dependencies:
+   pip install -r requirements.txt
+3. Run the dashboard:
+   streamlit run app.py
