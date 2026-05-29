@@ -2,7 +2,7 @@
 
 A proof-of-concept Technical Asset Management dashboard built to simulate daily real-time monitoring, data validation, and pre-diagnostics for solar power plants. 
 
-Live App Link: [streamlit cloud URL]
+Live App Link: [[streamlit cloud URL](https://solarlytics-monitoring-prototype.streamlit.app/)]
 
 ## Key Features & Asset Intelligence Workflow
 * **Data Integration & Validation:** Merges and processes split-source CSV infrastructure data (Generation and Weather sensor telemetry) using Pandas, simulating data logger troubleshooting.
